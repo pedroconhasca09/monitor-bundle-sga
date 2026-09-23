@@ -215,6 +215,11 @@
         <target>Atendimento inválido</target>
         
       </trans-unit>
+      <trans-unit id="57">
+        <source>label.observacoes</source>
+        <target>Observações</target>
+        
+      </trans-unit>
     </body>
   </file>
 </xliff>

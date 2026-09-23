@@ -226,6 +226,11 @@
         <target>Invalid attending</target>
         
       </trans-unit>
+      <trans-unit id="57">
+        <source>label.observacoes</source>
+        <target>Notes</target>
+        
+      </trans-unit>
     </body>
   </file>
 </xliff>

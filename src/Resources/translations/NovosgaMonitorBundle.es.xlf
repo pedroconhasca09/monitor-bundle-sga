@@ -226,6 +226,11 @@
         <target>Atención inválida</target>
         
       </trans-unit>
+      <trans-unit id="57">
+        <source>label.observacoes</source>
+        <target>Observaciones</target>
+        
+      </trans-unit>
     </body>
   </file>
 </xliff>
